@@ -1,0 +1,3 @@
+include ':app:recycleapp2'
+include ':app'
+rootProject.name = "recyclerviewexample"
